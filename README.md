@@ -1,5 +1,5 @@
 # ACPRS
-# Academic papers review system
+# Academic Papers Review System
 # 学术论文评审系统
 JSP&Java&MySQL Web MVC
 
